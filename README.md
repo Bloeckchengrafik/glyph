@@ -1,3 +1,5 @@
+
+
 # ![logo](.github/readme_icon.svg) Glyph Notes
 
 [![Discord](https://img.shields.io/discord/1209253136112549918?style=for-the-badge)](https://discord.gg/2y6HqtvBqW)
@@ -31,7 +33,7 @@ GPUI is licensed under the Apache License, Version 2.0 - see
 their [LICENSE](https://github.com/zed-industries/zed/blob/main/LICENSE-APACHE) file for details.
 gpui-component is licensed under the Apache License, Version 2.0 - see
 their [LICENSE](https://github.com/longbridge/gpui-component/blob/main/LICENSE-APACHE) file for details.
-Icons are provided by [Lucide](https://lucide.dev/) and are licensed under the ISC License See
+Icons are provided by [Lucide](https://lucide.dev/) and are licensed under the ISC License. See
 their [LICENSE](https://lucide.dev/license) file for details.
 
 ## Acknowledgements
